@@ -1,9 +1,13 @@
 # Sab-821.github.io
 ## Julliana Sabela T. Solares
-*Ateneo De Naga Junior highschool*
+# *Animals*
 
-- Happy
-- Sad
-- Nice
+### *House pets*
+- Dogs
+- Cat
+- Fish
+- Hamster
+- Ferret
+- Bird
 
-
+### Preffered house pet
